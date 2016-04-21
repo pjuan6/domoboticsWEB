@@ -1,0 +1,51 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: A66B-9C83
+
+ Directorio de C:\Users\Banana\Documents\Robocol\web\images
+
+10/12/2014  06:39 p.m.    <DIR>          .
+10/12/2014  06:39 p.m.    <DIR>          ..
+10/12/2014  06:31 p.m.             3.194 2011_icon.svg
+10/12/2014  06:32 p.m.             3.609 2012_icon.svg
+10/12/2014  06:34 p.m.             3.329 2013_icon.svg
+10/12/2014  06:35 p.m.             3.318 2014_icon.svg
+09/06/2014  04:33 p.m.               324 bg.png
+09/06/2014  05:39 p.m.             3.636 btn.png
+10/06/2014  04:47 p.m.               395 contact.png
+09/12/2014  06:40 p.m.           118.703 gear2.svg
+10/06/2014  12:42 p.m.             3.051 hand-hover.png
+10/06/2014  11:58 a.m.             3.022 hand.png
+11/06/2014  10:50 a.m.            30.640 img-sprite.png
+11/06/2014  10:52 a.m.           311.709 img-sprite.psd
+09/06/2014  04:28 p.m.            13.510 logo.png
+09/12/2014  06:55 p.m.             6.425 logo_small.png
+09/12/2014  09:36 p.m.             3.036 mission_ship.svg
+09/12/2014  04:55 p.m.            96.746 moon.png
+11/06/2014  03:49 p.m.             3.042 nav-icon.png
+10/12/2014  06:39 p.m.               159 nombres.txt
+13/06/2014  11:41 a.m.            27.107 p1.jpg
+13/06/2014  11:58 a.m.            29.889 p10.jpg
+13/06/2014  12:00 p.m.            19.332 p11.jpg
+13/06/2014  12:03 p.m.            29.550 p12.jpg
+13/06/2014  11:43 a.m.            25.099 p2.jpg
+13/06/2014  11:44 a.m.            35.221 p3.jpg
+13/06/2014  11:45 a.m.            29.002 p4.jpg
+13/06/2014  11:48 a.m.            28.575 p5.jpg
+13/06/2014  11:49 a.m.            22.319 p6.jpg
+13/06/2014  11:50 a.m.            23.444 p7.jpg
+13/06/2014  11:53 a.m.            20.988 p8.jpg
+13/06/2014  11:54 a.m.            23.767 p9.jpg
+10/06/2014  03:39 p.m.            63.651 pic1.png
+10/06/2014  03:48 p.m.            67.592 pic2.png
+10/06/2014  03:58 p.m.            56.617 pic3.png
+10/06/2014  03:59 p.m.            56.961 pic4.png
+10/12/2014  06:16 p.m.    <DIR>          project_pics
+10/06/2014  11:23 a.m.             7.506 p_logo.png
+10/12/2014  05:16 p.m.             3.561 robotica_colombiana.png
+09/12/2014  09:20 p.m.           190.830 robot_background1.jpg
+10/06/2014  02:58 p.m.            10.657 signup.png
+10/12/2014  04:46 p.m.    <DIR>          team_pics
+09/12/2014  09:37 p.m.            34.392 vision_telescope.svg
+10/12/2014  03:35 p.m.    <DIR>          work
+              39 archivos      1.413.908 bytes
+               5 dirs   9.826.791.424 bytes libres
